@@ -74,11 +74,10 @@ We envision a future where communities can collectively and transparently fund l
 
 ## Getting Started
 
-Deploy the smart contract to Stellar's Soroban network and interact with it using the three main functions:
+Deploy the smart contract to Stellar's Soroban network and interact with it using the main functions:
 
-- `create_note()` - Create a new note with a title and content
-- `get_notes()` - Retrieve all stored notes from the contract
-- `delete_note()` - Remove a specific note by its ID
+- `donate(donor: Address, amount: i128)` - Securely transfer XLM from your wallet to fund the desalination project.
+- `get_donation(donor: Address)` - Retrieve the total accumulated donation amount for a specific wallet address.
 
 **AquaInnovate Jakarta** · Securing Jakarta's Future on the Blockchain
 
