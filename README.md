@@ -71,3 +71,13 @@ We envision a future where communities can collectively and transparently fund l
 - **Smart Contract**: Soroban SDK, Rust programming language, Stellar CLI
 - **Network**: Stellar Futurenet
 
+## Getting Started
+
+Deploy the smart contract to Stellar's Soroban network and interact with it using the three main functions:
+
+- `create_note()` - Create a new note with a title and content
+- `get_notes()` - Retrieve all stored notes from the contract
+- `delete_note()` - Remove a specific note by its ID
+
+**AquaInnovate Jakarta** · Securing Jakarta's Future on the Blockchain
+
