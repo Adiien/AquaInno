@@ -67,19 +67,7 @@ We envision a future where communities can collectively and transparently fund l
 
 ## Technical Requirements
 
-- **Frontend**: HTML5, CSS3 (Tailwind CSS concepts), Vanilla JavaScript
 - **Web3 Integration**: Freighter API, Soroban RPC
 - **Smart Contract**: Soroban SDK, Rust programming language, Stellar CLI
 - **Network**: Stellar Futurenet
 
-## Getting Started
-
-To interact with the AquaInnovate DApp locally:
-
-1. **Install Prerequisites**: Ensure you have `stellar-cli` and the Freighter browser extension installed.
-2. **Connect to Futurenet**: Switch your Freighter wallet network to Stellar Futurenet and fund it via the official faucet.
-3. **Run the Frontend**: Use VS Code Live Server (or any local server) to serve `index.html`.
-4. **Interact**: Click "Connect Wallet" in the navigation bar and test the AquaFund donation system.
-
----
-**AquaInnovate Jakarta** · SOFTCOMPT 2026 · Securing Jakarta's Future on the Blockchain
